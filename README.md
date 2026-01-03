@@ -1,4 +1,2 @@
 # mini-cli-nmap
-for install it on windows:
-download the file and execute it 
-(linux come)
+for install it, you just need to compile it lol
